@@ -1,0 +1,2 @@
+# MergeShort
+Kodluyoruz Merge  Short
